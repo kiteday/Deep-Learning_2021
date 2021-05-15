@@ -7,3 +7,6 @@
 - sigmoid, softmax 함수 구현
 
 [실습 05] CNN을 이용한 학습 <br>
+- MNIST 데이터셋을 이용한 CNN 클래스
+- convolution 처리
+- optimization

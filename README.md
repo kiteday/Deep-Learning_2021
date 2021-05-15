@@ -5,4 +5,5 @@
 [실습 02] MLP 행렬곱 구현<br>
 - MNIST 데이터셋을 이용한 MLP(Multi Layered Perception) 구현
 - sigmoid, softmax 함수 구현
+
 [실습 05] CNN을 이용한 학습 <br>

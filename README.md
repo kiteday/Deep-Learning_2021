@@ -10,3 +10,7 @@
 - MNIST 데이터셋을 이용한 CNN 클래스
 - convolution 처리
 - optimization
+
+[실습 05] 합성곱 신경망2
+- VGGnet을 이용한 사진 분류
+- 
